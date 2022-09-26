@@ -1,0 +1,29 @@
+
+.detailsCard{
+    font-size: 25px;
+    padding: 10px;
+    width: 1350px;
+}
+.backbtn{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    position: relative;
+    left: 43%;
+    bottom: 56px;
+}
+.image{
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black;
+}
+.imageDetails{
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black;
+    margin-left: 40%;
+}
